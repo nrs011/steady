@@ -27,6 +27,8 @@ As such, it addresses the OWASP Top 10 security risk A9, [Using Components with 
 
 In comparison to other tools, the detection is code-centric and usage-based, which allows for more accurate detection and assessment than tools relying on meta-data. It is a collection of client-side scan tools, microservices and rich [OpenUI5](https://openui5.hana.ondemand.com/) Web frontends.
 
+Read more in the [**Docs**](https://eclipse.github.io/steady/)
+
 ## History
 
 [Originally developed](https://scholar.google.com/citations?user=FOEVZyYAAAAJ&hl=en) by [SAP Security Research](https://www.sap.com/documents/2017/12/cc047065-e67c-0010-82c7-eda71af511fa.html) since late 2016, SAP has been using the method in a constructive manner (but an earlier prototype was available since 2015). In April 2017, the tool was designated as SAP's official open-source scan solution for Java (and later Python) applications. It has been used to conduct 1 million+ scans of 1000 Java and Python software projects as of April 2019, and its adoption is steadily increasing.
